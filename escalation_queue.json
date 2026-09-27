@@ -1,0 +1,92 @@
+[
+  {
+    "ticket_id": "be93f59a",
+    "session_id": "cc3d3aa6-85c5-4ba8-8a65-2a5b26f82163",
+    "created_at": "2026-09-26T17:31:46.009447+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "my vpn keeps disconnecting",
+    "chat_history": "Human: my vpn keeps disconnecting\nAI: **Troubleshooting steps for a VPN that keeps disconnecting**\n\n1. **Check your network connection**  \n   - Verify that you are on a stable Wi\u2011Fi or wired network. Unstable Wi\u2011Fi is a common cause of random VPN drops.\n\n2. **Try a wired connection**  \n   - Connect your computer directly to the network with an Ethernet cable. If the VPN stays connected, the issue is likely Wi\u2011Fi\u2011related.\n\n3. **Disable power\u2011saving settings on the network adapter**  \n   - Open your network adapter properties and turn off any \u201cAllow the computer to turn off this device to save power\u201d options. Power\u2011saving can interrupt the VPN tunnel.\n\n4. **Test with a different network**  \n   - Connect to a mobile hotspot or another trusted network. Corporate firewalls in hotels, caf\u00e9s, etc., sometimes block VPN ports, causing intermittent disconnects.\n\n5. **Restart your device**  \n   - A full reboot can clear any lingering adapter or software issues that may be causing the drops.\n\nIf the problem persists after these steps, please contact network engineering for a deeper review (e.g., to check firewall rules or request a new certificate).",
+    "status": "open"
+  },
+  {
+    "ticket_id": "6399faeb",
+    "session_id": "79238392-cac1-4c99-a80c-1d1f011033f4",
+    "created_at": "2026-09-26T17:34:25.534646+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "my vpn keeps disconnecting",
+    "chat_history": "Human: my vpn keeps disconnecting\nAI: **Troubleshooting steps for a VPN that keeps disconnecting**\n\n1. **Check your network connection**  \n   - Verify that your Wi\u2011Fi signal is stable. An unstable Wi\u2011Fi link is a common cause of random VPN drops.  \n\n2. **Try a wired connection**  \n   - Connect your computer directly to the network with an Ethernet cable. If the VPN stays connected, the issue is likely Wi\u2011Fi\u2011related.  \n\n3. **Disable aggressive power\u2011saving on the network adapter**  \n   - Some power\u2011saving settings cause the adapter to sleep, breaking the VPN. Turn off any \u201callow the computer to turn off this device to save power\u201d options for the Wi\u2011Fi/Ethernet adapter.  \n\n4. **Test the VPN on a different network**  \n   - Corporate firewalls at hotels, caf\u00e9s, or other public locations can block VPN ports. Connect using a mobile hotspot (or another trusted network) to see if the disconnects stop.  \n\n5. **If the problem persists, repeat steps 1\u20114**  \n   - If the VPN remains stable on a wired connection or a mobile hotspot, the root cause is your original Wi\u2011Fi/network environment. Consider contacting your local IT team for further investigation of the access point or network configuration.  ",
+    "status": "open"
+  },
+  {
+    "ticket_id": "f9aa9a76",
+    "session_id": "ab7f583b-df77-4665-8d26-79bb87525b46",
+    "created_at": "2026-09-26T17:38:14.866876+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "hi",
+    "chat_history": "Human: hi\nAI: I don't have enough information to resolve this.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "1a4eb7bd",
+    "session_id": "s1",
+    "created_at": "2026-09-26T17:40:42.049437+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "hello",
+    "chat_history": "Human: hello\nAI: I don't have enough information to resolve this.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "9c24a5d7",
+    "session_id": "1426550f-abeb-4ca6-8ea1-2d21b99ffce5",
+    "created_at": "2026-09-26T17:44:36.774852+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "hello",
+    "chat_history": "Human: hello\nAI: I don't have enough information to resolve this.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "2f74589c",
+    "session_id": "7f9b1667-4c80-4d9d-ae60-2dc370122a8c",
+    "created_at": "2026-09-26T17:55:35.220005+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "hi",
+    "chat_history": "Human: hi\nAI: I don't have enough information to resolve this.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "9bae2837",
+    "session_id": "8e47d17d-33e2-4275-82cc-d767bb3cf61d",
+    "created_at": "2026-09-26T18:06:51.559708+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "Hi",
+    "chat_history": "Human: Hi\nAI: I don't have enough information to resolve this.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "bd916605",
+    "session_id": "8e47d17d-33e2-4275-82cc-d767bb3cf61d",
+    "created_at": "2026-09-26T18:07:14.252544+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "my vpn keeps disconnecting",
+    "chat_history": "Human: Hi\nAI: I don't have enough information to resolve this.\nHuman: my vpn keeps disconnecting\nAI: **Possible reasons your VPN is disconnecting**\n\n- Unstable Wi\u2011Fi connection or aggressive power\u2011saving settings on the network adapter.  \n- Corporate firewalls (e.g., in hotels or caf\u00e9s) that block VPN ports.  \n- Out\u2011of\u2011date Wi\u2011Fi driver/firmware on your device.  \n\n**Troubleshooting steps**\n\n1. **Verify the underlying internet link**  \n   - Switch from Wi\u2011Fi to a wired Ethernet connection (or use a mobile hotspot) to see if the disconnects stop.  \n\n2. **Check Wi\u2011Fi power\u2011saving settings**  \n   - Open your network adapter properties and **disable any Wi\u2011Fi power\u2011saving or sleep mode** options.  \n\n3. **Update the Wi\u2011Fi driver/firmware**  \n   - Download and install the latest driver for your wireless adapter from the manufacturer\u2019s website, then reboot.  \n\n4. **Test for firewall interference**  \n   - If you\u2019re on a public network (hotel, caf\u00e9, etc.), try connecting via a **mobile hotspot** or another trusted network.  \n   - If the VPN stays stable on the hotspot, the original network is likely blocking VPN ports.  \n\n5. **Restart the VPN client**  \n   - Fully quit the VPN application (not just \u201cDisconnect\u201d), then reopen it and reconnect.  \n\n6. **If the problem persists**  \n   - Contact network engineering for a manual review, as they may need to issue a new certificate or adjust your access permissions.  \n\nFollowing these steps should identify and often resolve the random VPN disconnects. If the issue remains after trying them, further investigation by the network team will be required.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "e5710271",
+    "session_id": "8e47d17d-33e2-4275-82cc-d767bb3cf61d",
+    "created_at": "2026-09-27T02:37:24.735648+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "vpn",
+    "chat_history": "Human: Hi\nAI: I don't have enough information to resolve this.\nHuman: my vpn keeps disconnecting\nAI: **Possible reasons your VPN is disconnecting**\n\n- Unstable Wi\u2011Fi connection or aggressive power\u2011saving settings on the network adapter.  \n- Corporate firewalls (e.g., in hotels or caf\u00e9s) that block VPN ports.  \n- Out\u2011of\u2011date Wi\u2011Fi driver/firmware on your device.  \n\n**Troubleshooting steps**\n\n1. **Verify the underlying internet link**  \n   - Switch from Wi\u2011Fi to a wired Ethernet connection (or use a mobile hotspot) to see if the disconnects stop.  \n\n2. **Check Wi\u2011Fi power\u2011saving settings**  \n   - Open your network adapter properties and **disable any Wi\u2011Fi power\u2011saving or sleep mode** options.  \n\n3. **Update the Wi\u2011Fi driver/firmware**  \n   - Download and install the latest driver for your wireless adapter from the manufacturer\u2019s website, then reboot.  \n\n4. **Test for firewall interference**  \n   - If you\u2019re on a public network (hotel, caf\u00e9, etc.), try connecting via a **mobile hotspot** or another trusted network.  \n   - If the VPN stays stable on the hotspot, the original network is likely blocking VPN ports.  \n\n5. **Restart the VPN client**  \n   - Fully quit the VPN application (not just \u201cDisconnect\u201d), then reopen it and reconnect.  \n\n6. **If the problem persists**  \n   - Contact network engineering for a manual review, as they may need to issue a new certificate or adjust your access permissions.  \n\nFollowing these steps should identify and often resolve the random VPN disconnects. If the issue remains after trying them, further investigation by the network team will be required.\nHuman: VPN connects but you can't reach internal sites\nAI: **Possible reasons** \u2013 The VPN tunnel is up, but DNS or routing isn\u2019t correctly directing you to internal resources (e.g., stale DNS cache, split\u2011tunneling settings, or an internal DNS server that wasn\u2019t assigned).\n\n**Troubleshooting steps**\n\n1. **Verify the site address**  \n   - Make sure the internal URL you\u2019re trying to reach is correct and is only accessible when you are connected to the VPN.\n\n2. **Clear any stale DNS entries**  \n   - **Windows:** Open a command prompt and run `ipconfig /flushdns`.  \n   - **Mac:** Open Terminal and run `sudo dscacheutil -flushcache`.\n\n3. **Reconnect the VPN**  \n   - Disconnect from the VPN, wait a few seconds, then reconnect. This often forces the client to obtain a fresh internal DNS server address.\n\n4. **Check split\u2011tunneling settings**  \n   - If split\u2011tunneling is enabled, only selected traffic goes through the VPN. Some internal tools require full\u2011tunnel mode, so switch to full\u2011tunnel (or add the needed subnets to the VPN\u2011routed list) and test again.\n\nIf after completing these steps you still cannot reach internal sites, further investigation by the network team may be required.\nHuman: vpn\nAI: **General VPN troubleshooting \u2013 follow these steps in order**\n\n1. **Verify your Internet connection**  \n   - Open a web browser and load any public website. If the page doesn\u2019t load, fix your internet (restart the router, switch to another network, etc.) before proceeding.\n\n2. **Fully restart the VPN client**  \n   - Quit the VPN application completely (do not just click \u201cDisconnect\u201d).  \n   - Re\u2011open the client and try to connect again.\n\n3. **If the client shows \u201cConnection failed\u201d or times out**  \n   1. Switch to a different VPN server/region in the client settings \u2013 the nearest server may be overloaded.  \n   2. Restart your computer after changing the server.  \n\n4. **If the VPN connects but you can\u2019t reach internal sites**  \n   1. Confirm the internal URL is correct and is only reachable via VPN.  \n   2. Clear stale DNS entries:  \n      - **Windows:** `ipconfig /flushdns`  \n      - **Mac:** `sudo dscacheutil -flushcache`  \n   3. Disconnect and reconnect the VPN to obtain a fresh internal DNS server.  \n   4. Check split\u2011tunneling: if it\u2019s enabled, switch to full\u2011tunnel mode (or add the required subnets) because some internal tools need all traffic to go through the VPN.\n\n5. **If the VPN keeps disconnecting randomly**  \n   1. Test the underlying network: connect via wired Ethernet or a mobile hotspot.  \n   2. Disable any Wi\u2011Fi power\u2011saving or sleep settings on your network adapter.  \n   3. Update the Wi\u2011Fi driver/firmware from the manufacturer\u2019s website and reboot.  \n   4. If you\u2019re on a public network (hotel, caf\u00e9, etc.), try a trusted network (mobile hotspot) to see if a firewall is blocking VPN ports.\n\n6. **If none of the above resolves the issue**  \n   - The problem may involve certificates, access permissions, or network\u2011segment restrictions that only network engineering can address. Submit a request to the network team for a manual review.\n\nFollowing these numbered steps should identify and often resolve most VPN connection problems. If the issue persists after completing them, further investigation by the network engineering team will be required.",
+    "status": "open"
+  },
+  {
+    "ticket_id": "7759eafa",
+    "session_id": "8e47d17d-33e2-4275-82cc-d767bb3cf61d",
+    "created_at": "2026-09-27T02:37:44.100088+00:00",
+    "reason": "unresolved_by_bot",
+    "user_message": "Known limitations",
+    "chat_history": "Human: Hi\nAI: I don't have enough information to resolve this.\nHuman: my vpn keeps disconnecting\nAI: **Possible reasons your VPN is disconnecting**\n\n- Unstable Wi\u2011Fi connection or aggressive power\u2011saving settings on the network adapter.  \n- Corporate firewalls (e.g., in hotels or caf\u00e9s) that block VPN ports.  \n- Out\u2011of\u2011date Wi\u2011Fi driver/firmware on your device.  \n\n**Troubleshooting steps**\n\n1. **Verify the underlying internet link**  \n   - Switch from Wi\u2011Fi to a wired Ethernet connection (or use a mobile hotspot) to see if the disconnects stop.  \n\n2. **Check Wi\u2011Fi power\u2011saving settings**  \n   - Open your network adapter properties and **disable any Wi\u2011Fi power\u2011saving or sleep mode** options.  \n\n3. **Update the Wi\u2011Fi driver/firmware**  \n   - Download and install the latest driver for your wireless adapter from the manufacturer\u2019s website, then reboot.  \n\n4. **Test for firewall interference**  \n   - If you\u2019re on a public network (hotel, caf\u00e9, etc.), try connecting via a **mobile hotspot** or another trusted network.  \n   - If the VPN stays stable on the hotspot, the original network is likely blocking VPN ports.  \n\n5. **Restart the VPN client**  \n   - Fully quit the VPN application (not just \u201cDisconnect\u201d), then reopen it and reconnect.  \n\n6. **If the problem persists**  \n   - Contact network engineering for a manual review, as they may need to issue a new certificate or adjust your access permissions.  \n\nFollowing these steps should identify and often resolve the random VPN disconnects. If the issue remains after trying them, further investigation by the network team will be required.\nHuman: VPN connects but you can't reach internal sites\nAI: **Possible reasons** \u2013 The VPN tunnel is up, but DNS or routing isn\u2019t correctly directing you to internal resources (e.g., stale DNS cache, split\u2011tunneling settings, or an internal DNS server that wasn\u2019t assigned).\n\n**Troubleshooting steps**\n\n1. **Verify the site address**  \n   - Make sure the internal URL you\u2019re trying to reach is correct and is only accessible when you are connected to the VPN.\n\n2. **Clear any stale DNS entries**  \n   - **Windows:** Open a command prompt and run `ipconfig /flushdns`.  \n   - **Mac:** Open Terminal and run `sudo dscacheutil -flushcache`.\n\n3. **Reconnect the VPN**  \n   - Disconnect from the VPN, wait a few seconds, then reconnect. This often forces the client to obtain a fresh internal DNS server address.\n\n4. **Check split\u2011tunneling settings**  \n   - If split\u2011tunneling is enabled, only selected traffic goes through the VPN. Some internal tools require full\u2011tunnel mode, so switch to full\u2011tunnel (or add the needed subnets to the VPN\u2011routed list) and test again.\n\nIf after completing these steps you still cannot reach internal sites, further investigation by the network team may be required.\nHuman: vpn\nAI: **General VPN troubleshooting \u2013 follow these steps in order**\n\n1. **Verify your Internet connection**  \n   - Open a web browser and load any public website. If the page doesn\u2019t load, fix your internet (restart the router, switch to another network, etc.) before proceeding.\n\n2. **Fully restart the VPN client**  \n   - Quit the VPN application completely (do not just click \u201cDisconnect\u201d).  \n   - Re\u2011open the client and try to connect again.\n\n3. **If the client shows \u201cConnection failed\u201d or times out**  \n   1. Switch to a different VPN server/region in the client settings \u2013 the nearest server may be overloaded.  \n   2. Restart your computer after changing the server.  \n\n4. **If the VPN connects but you can\u2019t reach internal sites**  \n   1. Confirm the internal URL is correct and is only reachable via VPN.  \n   2. Clear stale DNS entries:  \n      - **Windows:** `ipconfig /flushdns`  \n      - **Mac:** `sudo dscacheutil -flushcache`  \n   3. Disconnect and reconnect the VPN to obtain a fresh internal DNS server.  \n   4. Check split\u2011tunneling: if it\u2019s enabled, switch to full\u2011tunnel mode (or add the required subnets) because some internal tools need all traffic to go through the VPN.\n\n5. **If the VPN keeps disconnecting randomly**  \n   1. Test the underlying network: connect via wired Ethernet or a mobile hotspot.  \n   2. Disable any Wi\u2011Fi power\u2011saving or sleep settings on your network adapter.  \n   3. Update the Wi\u2011Fi driver/firmware from the manufacturer\u2019s website and reboot.  \n   4. If you\u2019re on a public network (hotel, caf\u00e9, etc.), try a trusted network (mobile hotspot) to see if a firewall is blocking VPN ports.\n\n6. **If none of the above resolves the issue**  \n   - The problem may involve certificates, access permissions, or network\u2011segment restrictions that only network engineering can address. Submit a request to the network team for a manual review.\n\nFollowing these numbered steps should identify and often resolve most VPN connection problems. If the issue persists after completing them, further investigation by the network engineering team will be required.\nHuman: Known limitations\nAI: The known limitation is:\n\n1. This assistant cannot issue new VPN certificates or grant access to network segments you don\u2019t already have permission for \u2014 those requests require a manual review by network engineering.",
+    "status": "open"
+  }
+]
